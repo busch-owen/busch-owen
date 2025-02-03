@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @busch-owen
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning Godot
-- 💞️ I’m looking to collaborate on any indie projects!
+- 🌱 I’m currently learning Netcode
 - 📫 How to reach me @buschowendev on instagram or via email buschowen@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Been programming in Unity since middle school
+- ⚡ Fun fact: Been programming in Unity for over 7 years!
 
 <!---
 busch-owen/busch-owen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
