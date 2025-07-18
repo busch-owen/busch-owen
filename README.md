@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @busch-owen
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning State machines and Frame Data
+- 🌱 I’m currently learning Netcode
 - 📫 How to reach me @buschowendev on Instagram or via email buschowen@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have been programming in Unity for over 7 years!
